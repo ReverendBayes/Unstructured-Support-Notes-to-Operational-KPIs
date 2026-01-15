@@ -52,15 +52,30 @@ Includes business-ready charts for:
 - **Problem Children Matrix**  
   Heatmap of the % of High Severity and % Unresolved cases by issue type. This reveals which issue categories need operational focus.
 
+![Problem Children Matrix](assets/1.png)
+
+Heatmap of the % of High Severity and % Unresolved cases by issue type. This reveals which issue categories need operational focus.
+
 - **Customer Pain Index**  
   Aggregated score across severity, resolution, escalation, follow-up, and sentiment. Systems with highest average pain score are prioritized for engineering or UX review.
+
+![Customer Pain Index](assets/2.png)
+
+This chart shows aggregated scores across severity, escalation, and follow-up flags for support tickets.
 
 - **Sentiment by Resolution Status**  
   Boxplot showing how sentiment correlates with resolution outcomes. Helps understand emotional impact of unresolved or escalated tickets.
 
+![Sentiment by Resolution Status](assets/3.png)
+
+Boxplot showing how sentiment correlates with resolution outcomes. Helps understand emotional impact of unresolved or escalated tickets.
+
 - **Recurring Problem Rate**  
   Bar chart showing frequency of recurrence-related keywords per issue type. Useful for identifying areas needing systemic fixes or knowledge base improvements.
 
+![Recurring Problem Rate](assets/4.png)
+
+Bar chart showing frequency of recurrence-related keywords per issue type. Useful for identifying areas needing systemic fixes or knowledge base improvements.
 
 ---
 
