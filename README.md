@@ -1,4 +1,4 @@
-# Freeform Support Notes to Operational KPIs Pipeline
+# Unstructured Support Notes to Operational KPIs Pipeline
 Automatically converts unstructured, freeform customer support notes into operational KPIs by extracting issue signals, scoring customer pain, identifying escalation risk, and enabling prioritization.
 
 #### ‼️ Use Jupyter Notebook - Not Google Colab
